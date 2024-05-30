@@ -1,7 +1,8 @@
 
 import 'dart:io';
 
-import 'package:ptcquze1/Question2/LazyManager.dart';
+import '/Question2/LazyManager.dart';
+
 class ConsoleUI{
   static var categories=LazyCategories();
   static var venuses=LazyVenues();
